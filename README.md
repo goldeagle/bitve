@@ -31,6 +31,7 @@ This is an *experimental* project currently, do NOT use it in your production en
 - Etcd 3.4.9
 - Traefik 2.3.2
 - Traefik Mesh 1.4.1
+- Jaeger 1.21.0
 - Grafana 7.3.4
 - TDengine 2.0.8.0
 - Gitea 1.13.0
@@ -39,6 +40,7 @@ This is an *experimental* project currently, do NOT use it in your production en
 - gcc 10.2.0-23
 - rust 1.48.0
 - go 1.15.5
+- PHP 8.0.0
 
 ## Toolits
 * htop 3.0.2-1
